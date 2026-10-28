@@ -45,3 +45,11 @@ Per-site recipes are in `.claude/skills/flat-watch/sites.md`: search URLs, where
 Everything about you (criteria, message, seen listings) stays in `data/`, which git ignores.
 
 The skills are written in English, but the sites, listings and landlord messages are in French. Keywords to match (e.g. « bail mobilité ») and message templates stay in French.
+
+## Contributing
+
+Issues and pull requests are welcome, especially fixes to `sites.md` when a site changes, recipes for new sites, and the untested SeLoger and Jinka sections. Never commit anything from `data/`.
+
+## License
+
+[MIT](LICENSE): free to use, modify and share. Provided as is, with no warranty. You are responsible for how you use it on third-party sites and for respecting their terms of use.
